@@ -8,8 +8,6 @@
 - 🎣 Also working on [Ribanje](https://github.com/VlasnikTvorniceOraha/Ribanje)
 
 - 📫 How to reach me **jf53287@fer.hr**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
